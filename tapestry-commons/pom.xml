@@ -346,7 +346,7 @@ oummmmmUUWW9WflhljqXmbpqovjZljjlkpUUnm]]></license>
     </dependencies>
 
     <properties>
-        <tapestry-release-version>5.2.5</tapestry-release-version>
+        <tapestry-release-version>5.2.6</tapestry-release-version>
         <jetty-release-version>6.1H.14</jetty-release-version>
         <clover.version>2.5.1</clover.version>
     </properties>
